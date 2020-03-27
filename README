@@ -1,0 +1,9 @@
+# TikTokDownloader
+
+This app plagiarizes the "signature" algorithm implemented in TikTok by using 
+DICI to achieve downloading videos from their server which is blocked by TikTok 
+normally.
+
+It requires a specified TikTok app to be installed: musical-ly-7-3-0.apk
+
+This app is tested on a Nexus 5 device running Android version 8.1.0.
