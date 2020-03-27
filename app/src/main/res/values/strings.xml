@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">tiktokdownloader</string>
+    <string name="user_id_input_hint">Input User ID Here</string>
+    <string name="uid">14561319</string>
+    <string name="load_video">Load Video</string>
+    <string name="keyword_input_hint">Input Your Keyword for Searching Users</string>
+    <string name="search_users_ids">Search</string>
 </resources>
